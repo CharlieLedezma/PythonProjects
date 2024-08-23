@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Euler-Lagrange_Try"
+		},
+		{
+			"path": "eQuis"
+		}
+	],
+	"settings": {
+		"ros.distro": "humble"
+	}
+}
